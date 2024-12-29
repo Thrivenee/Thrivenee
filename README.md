@@ -7,9 +7,10 @@
 
 - 🌱 I’m currently learning *Smart Contracts*
 
-<h3 align="left">Connect with me:</h3>
+
 
 - 📫 How to reach me *thriveneenakerakanti@gmail.com*  
+
 
 
 <p align="left">
