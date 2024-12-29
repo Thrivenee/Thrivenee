@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thrivenee</h1>
-<h3 align="center">🚀 Cloud Navigator & Microservices Craftsman</h3>
+<h3 align="center">🚀 Smart Contracts Developer | Blockchain Innovator </h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -11,11 +11,6 @@
 
 - 📫 How to reach me *thriveneenakerakanti@gmail.com*  
 
-
-
-<p align="left">
-<a href="https://dev.to/thrivenee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thrivenee" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
